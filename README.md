@@ -1,5 +1,4 @@
 
-
   <h1>📊 Patients Details Summary Dashboard</h1>
 
   <h2>📘 About the Project</h2>
