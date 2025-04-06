@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Patients Details Summary Dashboard</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    ul {
-      margin-top: 0.5rem;
-      margin-bottom: 1.5rem;
-    }
-    li {
-      margin-bottom: 0.4rem;
-    }
-    .emoji {
-      font-size: 1.3rem;
-      margin-right: 0.5rem;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>📊 Patients Details Summary Dashboard</h1>
 
@@ -88,5 +56,3 @@
     Feel free to connect if you’d like to collaborate, ask questions, or learn more about clinical data analytics!
   </p>
 
-</body>
-</html>
